@@ -5,7 +5,7 @@ Saved ScamBuster chat logs. A file here is the full transcript when one was stor
 | File | What it is |
 |---|---|
 | [ScamBuster-chat-logs.md](ScamBuster-chat-logs.md) | 11 October 2026 transcript, then the 7 October 2026 project notes. Already in this archive before 19 October 2026. |
-| [2026-10-19-chat.md](2026-10-19-chat.md) | 19 October 2026 chat, in full: recall the lost session, summarize the app from GitHub, then archive. |
+| [2026-10-19-chat.md](2026-10-19-chat.md) | 19 October 2026 chat, in full. Includes the product explanation, the viable product, the demonstrator, the testing protocol, and the incoming-call button answer. Replaces the partial copy from earlier that evening. |
 | [mentions/hiit-man-CHAT-LOG.md](mentions/hiit-man-CHAT-LOG.md) | Full saved Hiit-Man chat log. Archived because it mentions ScamBuster. |
 
 Checked on 19 October 2026 and not copied, because they do not mention ScamBuster:
